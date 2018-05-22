@@ -21,7 +21,7 @@ RSS: false
 weibo_username:     821169531
 zhihu_username:     meng-meng-jie-80
 github_username:    haibarai
-facebook_username:  haibarai
+#facebook_username:  haibarai
 jianshu_username:   6c024226dbd9
 
 
@@ -78,7 +78,7 @@ ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
 ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: zhunaiji.cn               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
@@ -98,10 +98,11 @@ service-worker: true
 
 # Friends
 friends: [
+    # {
+    #     title: "简书·包子还是馒头",
+    #     href: "http://www.jianshu.com/u/6c024226dbd9"
+    # },
     {
-        title: "简书·包子还是馒头",
-        href: "http://www.jianshu.com/u/6c024226dbd9"
-    },{
         title: "Apple",
         href: "https://apple.com"
     },{
