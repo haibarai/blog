@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      基于CentOS 7 安装Percona XtraDB Cluster(PXC) 5.7
+title:      基于CentOS 7 安装Percona XtraDB Cluster(PXC) 5.7（转）
 subtitle:   MySQL集群部署
 date:       2018-05-25
 author:     haibarai
@@ -14,6 +14,7 @@ tags:
 
 
 ## 基于CentOS 7 安装Percona XtraDB Cluster(PXC) 5.7（转自Echo_Sxl）
+原博客地址：http://www.songxiaolang.com/2018/05/22/centos7_pxc_mysql/          
 Percona XtraDB Cluster(简称PXC)是很多企业基于MySQL实现集群方案的不二选择。PXC它支持服务高可用,数据同步复制(并发复制)，几乎无延迟；多个可同时读写节点，可实现写扩展等等
 本文是基于CentOS 7 PXC 5.7版一个更为标准的安装，可供大家参考。
 
